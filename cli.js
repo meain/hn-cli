@@ -16,7 +16,7 @@ const defaults = {
   },
   default: {
     'limit': 150,
-    'keep-open': false,
+    'keep-open': true,
     'latest': false
   }
 };
