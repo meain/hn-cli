@@ -15,7 +15,8 @@ module.exports = {
     },
     cell: {
       selected: {
-        bg: 'lightgray'
+        bg: 'green',
+        fg: 'black',
       }
     }
   }
